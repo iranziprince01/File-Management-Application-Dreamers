@@ -1,0 +1,16 @@
+{
+  "user_create_success": "User created successfully",
+  "user_creation_failed": "User creation failed",
+  "user_exists": "User already exists",
+  "user_login_success": "User logged in successfully",
+  "invalid_details": "Invalid credentials",
+  "login_fail": "Failed to login",
+  "get_success": "User fetched successfully",
+  "user_not_found": "User not found",
+  "fetch_failed": "User fetching failed",
+  "update_success": "User updated successfully",
+  "update_failed": "User update failed",
+  "user_delete_success": "User deleted successfully",
+  "file_upload_success": "File uploaded successfully",
+  "file_update_success": "File updated successfully"
+}

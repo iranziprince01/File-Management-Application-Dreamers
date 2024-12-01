@@ -1,0 +1,16 @@
+{
+  "user_create_success": "Utilisateur créé avec succès",
+  "user_creation_failed": "la création de l'utilisateur a échoué",
+  "user_exists": "L'utilisateur existe déjà",
+  "user_login_success": "Utilisateur connecté avec succès",
+  "invalid_details": "identifiants invalides",
+  "login_fail": "Échec de la connexion",
+  "get_success": "L'utilisateur a été récupéré avec succès",
+  "user_not_found": "Utilisateur introuvable",
+  "fetch_failed": "Échec de la récupération par l'utilisateur",
+  "update_success": "Utilisateur mis à jour avec succès",
+  "update_failed": "Mise à jour de l'utilisateur a échoué",
+  "user_delete_success": "Utilisateur supprimé avec succès",
+  "file_upload_success": "Fichier téléchargé avec succès",
+  "file_update_success": "Fichier mis à jour avec succès"
+}
